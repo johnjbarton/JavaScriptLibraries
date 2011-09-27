@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11971/branches/firebug1.9/content/firebug/console
+END
+commandLine.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11936/branches/firebug1.9/content/firebug/console/commandLine.js
+END
+consoleInjected.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/console/consoleInjected.js
+END
+eventMonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/console/eventMonitor.js
+END
+commandLinePopup.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11840/branches/firebug1.9/content/firebug/console/commandLinePopup.js
+END
+consoleExposed.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11757/branches/firebug1.9/content/firebug/console/consoleExposed.js
+END
+memoryProfiler.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/console/memoryProfiler.js
+END
+commandLineInjected.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11639/branches/firebug1.9/content/firebug/console/commandLineInjected.js
+END
+errors.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11971/branches/firebug1.9/content/firebug/console/errors.js
+END
+commandLineExposed.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11593/branches/firebug1.9/content/firebug/console/commandLineExposed.js
+END
+consoleInjector.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11598/branches/firebug1.9/content/firebug/console/consoleInjector.js
+END
+console.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11969/branches/firebug1.9/content/firebug/console/console.js
+END
+profiler.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/console/profiler.js
+END

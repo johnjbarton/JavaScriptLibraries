@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 66
+local.properties
+update.rdf
+build
+dist
+install.rdf
+.project
+.idea
+
+K 13
+svn:mergeinfo
+V 176
+/branches/firebug1.4:2706-3094,3107,3109-3113
+/branches/firebug1.5:4674-5397,5755
+/branches/firebug1.6:7450-7467,7470
+/branches/firebug1.7:8996-9561
+/branches/modules:9198-9470
+END

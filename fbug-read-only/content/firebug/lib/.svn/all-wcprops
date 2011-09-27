@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11973/branches/firebug1.9/content/firebug/lib
+END
+events.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11547/branches/firebug1.9/content/firebug/lib/events.js
+END
+domplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11542/branches/firebug1.9/content/firebug/lib/domplate.js
+END
+search.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/search.js
+END
+object.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/object.js
+END
+string.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11936/branches/firebug1.9/content/firebug/lib/string.js
+END
+lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11951/branches/firebug1.9/content/firebug/lib/lib.js
+END
+keywords.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/keywords.js
+END
+json.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/json.js
+END
+tool.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/tool.js
+END
+array.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11511/branches/firebug1.9/content/firebug/lib/array.js
+END
+dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11725/branches/firebug1.9/content/firebug/lib/dom.js
+END
+wrapper.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/wrapper.js
+END
+xpath.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/xpath.js
+END
+css.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11924/branches/firebug1.9/content/firebug/lib/css.js
+END
+fonts.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11973/branches/firebug1.9/content/firebug/lib/fonts.js
+END
+persist.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/persist.js
+END
+options.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11725/branches/firebug1.9/content/firebug/lib/options.js
+END
+trace.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11489/branches/firebug1.9/content/firebug/lib/trace.js
+END
+locale.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11618/branches/firebug1.9/content/firebug/lib/locale.js
+END
+xml.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/xml.js
+END
+deprecated.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/deprecated.js
+END
+url.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11718/branches/firebug1.9/content/firebug/lib/url.js
+END
+dragdrop.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/lib/dragdrop.js
+END

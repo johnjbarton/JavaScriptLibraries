@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/11983/branches/firebug1.9
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11412/branches/firebug1.9/license.txt
+END
+install.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11972/branches/firebug1.9/install.rdf
+END
+chrome.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11754/branches/firebug1.9/chrome.manifest
+END
+update.rdf.tpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11412/branches/firebug1.9/update.rdf.tpl.xml
+END
+chrome.bz.tpl.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11871/branches/firebug1.9/chrome.bz.tpl.manifest
+END
+install.rdf.tpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11740/branches/firebug1.9/install.rdf.tpl.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11872/branches/firebug1.9/build.xml
+END

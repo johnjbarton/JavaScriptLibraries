@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11982/branches/firebug1.9/content/firebug/js
+END
+sourceCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11940/branches/firebug1.9/content/firebug/js/sourceCache.js
+END
+scriptPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11981/branches/firebug1.9/content/firebug/js/scriptPanel.js
+END
+debugger.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11976/branches/firebug1.9/content/firebug/js/debugger.js
+END
+watchPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11852/branches/firebug1.9/content/firebug/js/watchPanel.js
+END
+sourceBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11982/branches/firebug1.9/content/firebug/js/sourceBox.js
+END
+tabCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/js/tabCache.js
+END
+fbs.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/js/fbs.js
+END
+sourceLink.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/js/sourceLink.js
+END
+breakpoint.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11977/branches/firebug1.9/content/firebug/js/breakpoint.js
+END
+sourceFile.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11929/branches/firebug1.9/content/firebug/js/sourceFile.js
+END
+stackFrame.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11612/branches/firebug1.9/content/firebug/js/stackFrame.js
+END
+callstack.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11903/branches/firebug1.9/content/firebug/js/callstack.js
+END

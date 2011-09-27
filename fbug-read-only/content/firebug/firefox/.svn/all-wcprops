@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11926/branches/firebug1.9/content/firebug/firefox
+END
+menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11585/branches/firebug1.9/content/firebug/firefox/menu.js
+END
+firebugMenuOverlay.xul
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/firefox/firebugMenuOverlay.xul
+END
+browserMenuOverlay.xul
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/firefox/browserMenuOverlay.xul
+END
+window.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/firefox/window.js
+END
+aboutOverlay.xul
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/firefox/aboutOverlay.xul
+END
+firebugMenu.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/firefox/firebugMenu.js
+END
+aboutOverlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/firefox/aboutOverlay.js
+END
+privacy.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11835/branches/firebug1.9/content/firebug/firefox/privacy.js
+END
+firebug.xul
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11832/branches/firebug1.9/content/firebug/firefox/firebug.xul
+END
+bindings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11812/branches/firebug1.9/content/firebug/firefox/bindings.xml
+END
+system.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11448/branches/firebug1.9/content/firebug/firefox/system.js
+END
+tabWatcher.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11926/branches/firebug1.9/content/firebug/firefox/tabWatcher.js
+END
+xpcom.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/firefox/xpcom.js
+END
+browserOverlayWithFrame.xul
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11811/branches/firebug1.9/content/firebug/firefox/browserOverlayWithFrame.xul
+END
+firebugFrame.xul
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11832/branches/firebug1.9/content/firebug/firefox/firebugFrame.xul
+END
+customizeShortcuts.xul
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/firefox/customizeShortcuts.xul
+END
+annotations.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11838/branches/firebug1.9/content/firebug/firefox/annotations.js
+END
+panelBarWaiter.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/firefox/panelBarWaiter.js
+END
+customizeShortcuts.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/firefox/customizeShortcuts.js
+END
+firefox.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11918/branches/firebug1.9/content/firebug/firefox/firefox.js
+END

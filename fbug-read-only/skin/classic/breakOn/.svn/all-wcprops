@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11412/branches/firebug1.9/skin/classic/breakOn
+END
+breakOnErrorSingle.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11412/branches/firebug1.9/skin/classic/breakOn/breakOnErrorSingle.png
+END
+breakOnNextSingle.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11412/branches/firebug1.9/skin/classic/breakOn/breakOnNextSingle.png
+END
+breakOnMutateSingle.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11412/branches/firebug1.9/skin/classic/breakOn/breakOnMutateSingle.png
+END
+breakOnXHRSingle.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11412/branches/firebug1.9/skin/classic/breakOn/breakOnXHRSingle.png
+END

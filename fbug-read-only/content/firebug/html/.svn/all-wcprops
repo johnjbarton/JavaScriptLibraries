@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11850/branches/firebug1.9/content/firebug/html
+END
+htmlPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11850/branches/firebug1.9/content/firebug/html/htmlPanel.js
+END
+inspector.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11746/branches/firebug1.9/content/firebug/html/inspector.js
+END
+highlighter.css
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/html/highlighter.css
+END
+htmlLib.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/html/htmlLib.js
+END
+insideOutBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11632/branches/firebug1.9/content/firebug/html/insideOutBox.js
+END
+layout.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11611/branches/firebug1.9/content/firebug/html/layout.js
+END

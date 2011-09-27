@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11595/branches/firebug1.9/content/firebug/editor/external
+END
+editors.xul
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/editor/external/editors.xul
+END
+editorsOverlay.xul
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11595/branches/firebug1.9/content/firebug/editor/external/editorsOverlay.xul
+END
+changeeditor.xul
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/editor/external/changeeditor.xul
+END
+editors.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/editor/external/editors.js
+END
+changeeditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/editor/external/changeeditor.js
+END
+externalEditors.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11503/branches/firebug1.9/content/firebug/editor/external/externalEditors.js
+END
+editorToContextMenu.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/editor/external/editorToContextMenu.js
+END

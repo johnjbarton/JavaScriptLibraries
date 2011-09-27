@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11893/branches/firebug1.9/modules
+END
+debuggerHalter.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11412/branches/firebug1.9/modules/debuggerHalter.js
+END
+storageService.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11835/branches/firebug1.9/modules/storageService.js
+END
+observer-service.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11670/branches/firebug1.9/modules/observer-service.js
+END
+firebug-http-observer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11541/branches/firebug1.9/modules/firebug-http-observer.js
+END
+moduleLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11412/branches/firebug1.9/modules/moduleLoader.js
+END
+require.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11412/branches/firebug1.9/modules/require.js
+END
+firebug-trace-service.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11412/branches/firebug1.9/modules/firebug-trace-service.js
+END
+require-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11412/branches/firebug1.9/modules/require-debug.js
+END
+firebug-service.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11893/branches/firebug1.9/modules/firebug-service.js
+END

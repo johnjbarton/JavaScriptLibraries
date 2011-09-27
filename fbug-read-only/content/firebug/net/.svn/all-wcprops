@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11981/branches/firebug1.9/content/firebug/net
+END
+httpActivityObserver.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11974/branches/firebug1.9/content/firebug/net/httpActivityObserver.js
+END
+netPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11978/branches/firebug1.9/content/firebug/net/netPanel.js
+END
+responseObserver.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/net/responseObserver.js
+END
+httpLib.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11636/branches/firebug1.9/content/firebug/net/httpLib.js
+END
+netUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11978/branches/firebug1.9/content/firebug/net/netUtils.js
+END
+netProgress.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11981/branches/firebug1.9/content/firebug/net/netProgress.js
+END
+jsonViewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11731/branches/firebug1.9/content/firebug/net/jsonViewer.js
+END
+netDebugger.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11927/branches/firebug1.9/content/firebug/net/netDebugger.js
+END
+spy.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11534/branches/firebug1.9/content/firebug/net/spy.js
+END
+netMonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11981/branches/firebug1.9/content/firebug/net/netMonitor.js
+END
+requestObserver.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11540/branches/firebug1.9/content/firebug/net/requestObserver.js
+END
+netReps.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11978/branches/firebug1.9/content/firebug/net/netReps.js
+END
+svgViewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/net/svgViewer.js
+END
+xmlViewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/net/xmlViewer.js
+END

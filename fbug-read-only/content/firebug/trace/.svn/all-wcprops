@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11505/branches/firebug1.9/content/firebug/trace
+END
+traceModule.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/trace/traceModule.js
+END
+traceListener.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11505/branches/firebug1.9/content/firebug/trace/traceListener.js
+END
+debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11412/branches/firebug1.9/content/firebug/trace/debug.js
+END
